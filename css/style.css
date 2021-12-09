@@ -1,0 +1,56 @@
+.header{
+    background-color: brown;
+    height: 200px;
+    width: 100%;
+    text-align:center ;
+
+}
+.menu{
+    background-color: green;
+    height: 50px;
+    width: 100%;
+    text-align:center ;
+    font-size: 20px;
+    text-shadow: hotpink;
+    text-emphasis-color: #fff;
+}
+.aside{
+overflow: hidden;
+
+}
+.right_side{
+background-color: hotpink;
+width: 50%;
+height: 500px;
+float: right;
+text-align: center;
+font-size: 50px;
+
+}
+.left_side{
+    background-color: rgb(210, 255, 105);
+    width: 50%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    font-size: 50px;
+}
+.section{
+    background-color: lawngreen;
+    height: 50%;
+    text-align: center;
+    font-size: 50px;
+}
+.article{
+    background-color: mediumturquoise;
+    text-align: center;
+    font-size: 50px;
+    height: 50%;
+}
+.end{
+    height: 50px;
+    background-color: mediumvioletred;
+    text-align: center;
+    font-size: 50px;
+    
+}
